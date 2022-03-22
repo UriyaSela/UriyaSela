@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @UriyaSela
+- 👀 I’m interested in the data world
+- 🌱 I’m currently learning industrial engineering and management
+- 📫 How to reach me on Linkedin - https://www.linkedin.com/in/uriya-sela/
