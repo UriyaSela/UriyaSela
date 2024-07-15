@@ -32,12 +32,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-3F4F75?style=for-the-badge&logo=dash&logoColor=white)
 ![PyMC](https://img.shields.io/badge/PyMC-13A538?style=for-the-badge&logo=pymc&logoColor=white)
-
----
-
-### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UriyaSela&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UriyaSela&layout=compact&theme=dark)
+![NLTK](https://img.shields.io/badge/NLTK-013243?style=for-the-badge&logo=nltk&logoColor=white)
+![re](https://img.shields.io/badge/re-013243?style=for-the-badge&logo=re&logoColor=white)
 
 ---
 
