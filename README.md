@@ -15,7 +15,7 @@
 #### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 
 #### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,6 +33,9 @@
 ![PyMC](https://img.shields.io/badge/PyMC-13A538?style=for-the-badge&logo=pymc&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-013243?style=for-the-badge&logo=nltk&logoColor=white)
 ![re](https://img.shields.io/badge/re-013243?style=for-the-badge&logo=re&logoColor=white)
+
+#### Cloud Computation:
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
