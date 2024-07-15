@@ -15,6 +15,8 @@
 #### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 #### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,9 +35,14 @@
 
 ---
 
+### GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UriyaSela&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UriyaSela&layout=compact&theme=dark)
+
+---
 
 ### Pinned Repositories:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ChatApp-Tcp-Udp)](https://github.com/UriyaSela/CKD_Prediction)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Pokemon-Game)](https://github.com/UriyaSela/house-pricing-prediction)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cpp-exercises-5782&repo=coup-b)](https://github.com/UriyaSela/Final_Project_DM)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cpp-exercises-5782&repo=orgchart-b)](https://github.com/UriyaSela/Project_HoneyNeonic)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UriyaSela&repo=CKD_Prediction)](https://github.com/UriyaSela/CKD_Prediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UriyaSela&repo=house-pricing-prediction)](https://github.com/UriyaSela/house-pricing-prediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UriyaSela&repo=Final_Project_DM)](https://github.com/UriyaSela/Final_Project_DM)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UriyaSela&repo=Project_HoneyNeonic)](https://github.com/UriyaSela/Project_HoneyNeonic)
